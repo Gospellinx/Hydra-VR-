@@ -30,6 +30,15 @@ Hydra VR is an immersive, AI-enhanced virtual reality platform where users can d
 | Devices             | Meta Quest, HTC Vive, Web Browsers      |
 
 ---
+## 📸 Screenshots
+
+![HYDRA Screenshot](./screenshot.png)
+
+**Linx**  
+🔗 [GitHub](https://github.com/Gospellinx) |
+---
+
+> 💡 Don't forget to ⭐ star this repo if you found it useful!
 
 ## 📦 Installation
 
@@ -44,30 +53,5 @@ cd hydra-vr
 - JavaScript (vanilla)
 - Responsive design (Flexbox)
 
-## 📸 Screenshots
-
-![HYDRA Screenshot](./screenshot.png)
-
-## 📁 Folder Structure
-
-HYDRA/
-├── index.html
-├── css/
-│ └── style.css
-├── js/
-│ └── script.js
-├── assets/
-│ ├── images/
-│ └── icons/
-
-markdown
-Copy
-Edit
 
 
-
-**Linx**  
-🔗 [GitHub](https://github.com/Gospellinx) |
----
-
-> 💡 Don't forget to ⭐ star this repo if you found it useful!
