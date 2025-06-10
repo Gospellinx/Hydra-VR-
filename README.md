@@ -1,7 +1,7 @@
 
 
 ## 🚀 Demo
-https://hydra-vr-five.vercel.app/
+https://hydra-vr2.netlify.app/
 
 # 🌐 Hydra VR – Immersive Virtual Worlds Powered by AI
 
